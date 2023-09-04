@@ -3,7 +3,7 @@ import java.util.Scanner;
 import service.bankingApp.BankOperation;
 import service.bankingApp.BankOperationImpl;
 
-public class BankApp {
+public class BankingApp {
 
     public static void main(String[] args) {
         BankOperation bankOperation = new BankOperationImpl();
