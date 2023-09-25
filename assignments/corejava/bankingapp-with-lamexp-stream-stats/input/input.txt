@@ -1,0 +1,5 @@
+anu,300000,113,current
+balu,50000,114,savings
+steela,70000,115,current
+david,200000,111,savings
+unna,500000,112,savings
