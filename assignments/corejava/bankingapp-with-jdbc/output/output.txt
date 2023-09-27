@@ -1,0 +1,4 @@
+anu,600000,113,savings
+babu,500000,111,current
+balaji,200000,112,current
+unna,200000,123,savings
